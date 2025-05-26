@@ -1,1 +1,9 @@
-# Semantic-Code-Fusion_HiDevs
+# Semantic Code Fusion
+
+This project is automatically generated.
+
+## Installation
+
+```sh
+pip install -r requirements.txt
+```
